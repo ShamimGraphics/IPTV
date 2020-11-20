@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 ,00
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_logo.png",বাংলাদেশ টেলিভিশন
 http://103.135.208.14:8082/53/index.m3u8?token=79c0ebf17723add98e8da910c856caa0550b2a07-95b63bd2fa73ba63ecd67c0e7ac9e32a-1605861688-1605850888&remote=103.118.76.9
 
-#EXTINF:-1 ,001
+#EXTINF:-1 group-title="Movie" tvg-logo="https://s8.gifyu.com/images/Sony_Max_HD.md.png",SONY MAX HD
 http://103.135.208.14:8082/77/index.m3u8?token=ba6998499a13e7973f928c4b0859bcd94eba9322-8572a518ab06d7cb8a3e94783209d1e8-1605861815-1605851015&remote=103.118.76.9
 
 #EXTINF:-1 ,9XM
