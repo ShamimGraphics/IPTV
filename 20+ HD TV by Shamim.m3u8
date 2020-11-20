@@ -20,3 +20,67 @@ http://103.135.208.14:8082/35/index.m3u8?token=c7880f2ddd8a35c5e99cbbeab7eb4d7f3
 
 #EXTINF:-1 ,Somoy Tv
 http://103.135.208.14:8082/17/index.m3u8?token=571fcda58799aaebb397f2e4a095bd38057d562f-ba378c931f76f565188adff4d7acbd45-1605862152-1605851352&remote=103.118.76.9
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1174px-Independent_Television_Logo.svg.png",Independent tv
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/JamunaTV_logo.jpg",Jamuna TV
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_4/public/feature/images/somoy-tv-logo.jpg?itok=6Zm57T5Z",Somoy TV
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG",RTV
+
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG",Bangla Vision
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg",MAASRANGA TV
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF",ATN NEWS
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ntv_national_tv_uk.jpg",NTV
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1280px-ATN_Bangla.svg.png",ATN Bangla
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1280px-Channel-i.svg.png",CHANNEL i
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1072px-Channel24logo.svg.png",Channel 24
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1160px-Boishakhi_TV_logo.svg.png",Boishakhi TV
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg",NEWS 24
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",ekattor tv
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png",Mytv
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG",Mohona tv
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/750px-Asian_TV_Logo.svg.png",asian TV
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",DBC NEWS
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",DEPTO BANGLA
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1280px-Channel9_bd.svg.png",Channel 9
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/4/43/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",Anando tv
+
