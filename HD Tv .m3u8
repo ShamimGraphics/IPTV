@@ -1,10 +1,14 @@
 #EXTM3U
+#EXTINF:-1 ,Sangsad TV
+http://bdiptv.net:8080/SangsadTV/tracks-v1a1/mono.m3u8?token=14b4309d07b450a97809494b6d45b3e7779aa304-873ef95de13b6a89a6c08fb99000dc14-1605975738-1605964938
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Chhalaang_film_poster.jpg" group-title="Movie",Chhalaang
 https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Chhalaang%20%282020%29/Chhalaang.2020.Hindi.720p.WEBRip.x264.AAC.VTL.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Laxmii_poster.jpg" group-title="Movie",Laxmii
 https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Laxmii%20%282020%29/Laxmii.2020.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1000px-2019_Discovery_logo.svg.png",DISCOVERY HD
-http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
+http://bdiptv.net:8080/Discovery/tracks-v1a1/mono.m3u8?token=a7ec9c8e858a199af5c868d34067f3ce25f0645c-1333cf4e622fa83de69c0ba6e317ee51-1605976370-1605965570
+#EXTINF:-1 ,AnimalPlanet
+http://bdiptv.net:8080/AnimalPlanet/tracks-v1a1/mono.m3u8?token=62a2278885b86dd692bba312d75ac4fe9d3aa5a4-076b17107cfa25b1786309b40430bf75-1605976404-1605965604
 #EXTINF:-1 group-title="Movies" tvg-logo="https://d1w5mpkwnbmmie.cloudfront.net/media_content/images/logo.png",SET MAX HD
 http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
 #EXTINF:-1 group-title="Movies",ZEE CINEMA
@@ -23,14 +27,16 @@ http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/DEPTO-BANGLA/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png",নাগরিক TV
 http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
+
 #EXTINF:-1 group-title="Music",Sangeet Bangla
-http://172.32.1.88:1935/tvprogram/SANGEET-BANGLA/playlist.m3u8
+http://bdiptv.net:8080/SangeetBangla/tracks-v1a1/mono.m3u8?token=aad3faee6b99da7d063cb61c7bcec18e07898cc8-52e08cc7c67f6b8dfc8093f582ac6f17-1605976237-1605965437
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/fD7wLka.jpg",9xM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+http://bdiptv.net:8080/9XM/tracks-v1a1/mono.m3u8?token=44e3e4c4fa042d29ac2e017770d11b27fc898f13-de0bcdd88722803c3141459de8876dd7-1605976291-1605965491
 #EXTINF:-1 ,ZOOM
-https://ccntv.anytv.live/zoom/index.m3u8
+http://bdiptv.net:8080/Zoom/tracks-v1a1/mono.m3u8?token=65022cd48413fd4361968d84e6fc8ee345ef5570-0a80144a20bbab1b4d8e33c6346f0d7e-1605976322-1605965522
 #EXTINF:-1 group-title="Music" tvg-logo="https://s8.gifyu.com/images/S6d9cb2S.png",Dhoom
 https://ccntv.anytv.live/dhoom/index.m3u8
+
 #EXTINF:-1 group-title="Music",9X JALWA
 http://172.32.1.88:1935/tvprogram/9X-JALWA/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/DJhTTmR.png",Music India
