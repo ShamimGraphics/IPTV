@@ -5,11 +5,7 @@ http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
 #EXTINF:-1 ,Arijit Singh
 https://www.dropbox.com/s/596on2red70vc83/Ar%20Kono%20Kotha%20Na%20Bole%28Full%20Video%29%20Shikari%20Shakib%20Khan%20Srabanti%20Arijit%20Singh%20Love%20Song%281080p%29.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/D2-poster-ver2.jpg" group-title="Movie.",Dhoom 2
-https://storage.sunplex.net/Movies/Hindi%20Movies/2006/Dhoom%202%20%282006%29/Dhoom.2.2006.BluRay.1080p.H264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Padman_poster.jpg" group-title="Movie",Padman
-https://storage.sunplex.net/Movies/Hindi%20Movies/2018/Pad%20Man%20%282018%29/Pad%20Man%202018%20Hindi%201080p%20WEB-DL%20x264%20AAC%20-%20Hon3yHD.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Chhalaang_film_poster.jpg" group-title="Movie",Chhalaang
 https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Chhalaang%20%282020%29/Chhalaang.2020.Hindi.720p.WEBRip.x264.AAC.VTL.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Laxmii_poster.jpg" group-title="Movie",Laxmii
@@ -159,7 +155,11 @@ https://storage.sunplex.net/Movies/English%20Movies/2013/Iron%20Man%203%20%28201
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Invasion_2020_poster.jpg" group-title="Movie.",Invasion
 https://storage.sunplex.net/Movies/Foreign%20Movies/Russian%20Movies/2020/Invasion%20%282020%29/Invasion.2020.1080p.BDRip.x264.AAC.VTL.mp4?raw=1
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/D2-poster-ver2.jpg" group-title="Movie.",Dhoom 2
+https://storage.sunplex.net/Movies/Hindi%20Movies/2006/Dhoom%202%20%282006%29/Dhoom.2.2006.BluRay.1080p.H264.AAC.VTL.mp4?raw=1
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Padman_poster.jpg" group-title="Movie",Padman
+https://storage.sunplex.net/Movies/Hindi%20Movies/2018/Pad%20Man%20%282018%29/Pad%20Man%202018%20Hindi%201080p%20WEB-DL%20x264%20AAC%20-%20Hon3yHD.mp4
 
 
 
