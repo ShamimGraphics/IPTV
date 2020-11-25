@@ -2,6 +2,9 @@
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1000px-2019_Discovery_logo.svg.png",DISCOVERY HD
 http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
 
+#EXTINF:-1 ,Arijit Singh
+https://www.dropbox.com/s/596on2red70vc83/Ar%20Kono%20Kotha%20Na%20Bole%28Full%20Video%29%20Shikari%20Shakib%20Khan%20Srabanti%20Arijit%20Singh%20Love%20Song%281080p%29.mp4?raw=1
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/D2-poster-ver2.jpg" group-title="Movie.",Dhoom 2
 https://storage.sunplex.net/Movies/Hindi%20Movies/2006/Dhoom%202%20%282006%29/Dhoom.2.2006.BluRay.1080p.H264.AAC.VTL.mp4?raw=1
 
