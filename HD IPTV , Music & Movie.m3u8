@@ -96,18 +96,7 @@ http://172.32.1.88:1935/tvprogram/HBO/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/TRAVELXP-BANGLA/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH
 http://172.32.1.88:1935/tvprogram/BBC-EARTH/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg",SONY TEN 1
-http://172.32.1.88:1935/tvprogram/TEN-1HD/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Sony-Ten-2HD.png",SONY TEN 2 HD
-http://172.32.1.88:1935/tvprogram/TEN-2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h.jpg",Star Sports Select 1 HD
-http://172.32.1.88:1935/tvprogram/STAR-SPORTS-SELECT1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg",Star Sports Select 2 HD
-http://172.32.1.88:1935/tvprogram/STAR-SPORTS-SELECT-2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg?itok=w4eKDRNF",STAR SPORTS 1
-http://172.32.1.88:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/01/DSport.jpg",DSPORTS
-http://172.32.1.88:1935/tvprogram/DSPORTS/playlist.m3u8
+
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://regularcapital.toonsphere.com/wp-content/uploads/2018/04/CartoonNetworkHDLogo.png",CARTOON NETWORK
 http://172.32.1.88:1935/tvprogram/CARTOON/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/History2_Canada.png",History 2
@@ -156,6 +145,9 @@ http://172.32.1.88:1935/tvprogram/star-utsav-movies/playlist.m3u8
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Ala_Vaikunthapurramuloo.jpeg" group-title="Allu Arjun",Ala Vaikunthapurramuloo
 https://storage.sunplex.net/Movies/South%20Indian%20Movies/Tamil%20Movies/2020/Ala%20Vaikunthapurramloo%20%282020%29/Ala.Vaikunthapurramloo.%282020%29.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
 
@@ -188,11 +180,6 @@ https://storage.sunplex.net/Movies/Hindi%20Movies/2006/Dhoom%202%20%282006%29/Dh
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Padman_poster.jpg" group-title="Movie",Padman
 https://storage.sunplex.net/Movies/Hindi%20Movies/2018/Pad%20Man%20%282018%29/Pad%20Man%202018%20Hindi%201080p%20WEB-DL%20x264%20AAC%20-%20Hon3yHD.mp4
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="Movie.",
 ?raw=1
