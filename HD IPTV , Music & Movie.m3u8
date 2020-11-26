@@ -5,10 +5,9 @@ https://www.dropbox.com/s/596on2red70vc83/Ar%20Kono%20Kotha%20Na%20Bole%28Full%2
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1000px-2019_Discovery_logo.svg.png",DISCOVERY HD
 http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg" group-title="Movie.",3 Idiots
+https://storage.sunplex.net/Movies/Hindi%20Movies/2009/3%20Idiots%20%282009%29/3.Idiots.2009.Hindi.1080p.BluRay.264.AAC.HDMA.VTL.mp4?raw=1
 
-
-#EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Arijit_5th_GiMA_Awards.jpg",Amar Paran Jaha Chay  
-https://www.dropbox.com/s/27y1dvpb5m3atmw/Amar%20Paran%20Jaha%20Chay%281%29.mp4?raw=1
 
 #EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://s2.gifyu.com/images/did-you-know-arijit-singh-gave-around-1200-takes-for-kalank-title-track-2.jpg",Kalank
 https://www.dropbox.com/s/0nkpihienzhln6t/Arijit%20Singh%20Official%20%20Kalank%20Live%20Full%20HD%20%20USA%20Tour%202019.mp4?raw=1
@@ -34,10 +33,7 @@ https://www.dropbox.com/s/a40ei4ohit9q04w/Shudhu%20Tomari%20Jonyo%20%28%E0%A6%B6
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Chhalaang_film_poster.jpg" group-title="Movie",Chhalaang
-https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Chhalaang%20%282020%29/Chhalaang.2020.Hindi.720p.WEBRip.x264.AAC.VTL.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Laxmii_poster.jpg" group-title="Movie",Laxmii
-https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Laxmii%20%282020%29/Laxmii.2020.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
+
 #EXTINF:-1 ,AnimalPlanet
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://d1w5mpkwnbmmie.cloudfront.net/media_content/images/logo.png",SET MAX HD
@@ -92,8 +88,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Movies",HBO
 http://172.32.1.88:1935/tvprogram/HBO/playlist.m3u8
 
-#EXTINF:-1 group-title="English",TRAVEL XP HD
-http://172.32.1.88:1935/tvprogram/TRAVELXP-BANGLA/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH
 http://172.32.1.88:1935/tvprogram/BBC-EARTH/playlist.m3u8
 
@@ -108,18 +102,9 @@ http://172.32.1.88:1935/tvprogram/MTV/playlist.m3u8
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
 
 
-#EXTINF:-1 group-title="English",TLC HD
-http://172.32.1.88:1935/tvprogram/TLC-HDWORLD/playlist.m3u8
-#EXTINF:-1 group-title="English",BBC Lifestyle
-http://172.32.1.88:1935/tvprogram/BBC-Lifestyle/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Indian",SONY HD
 http://172.32.1.88:1935/tvprogram/SONY-HD/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Indian",ZEE BANGLA
-http://bdiptv.net:8080/ZeeBangla/tracks-v1a1/mono.m3u8?token=f2e899af8aad90d4793c97dec326afb5f61abe3d-b9e01a91ced21ac4a50d8a9f262e8bba-1605985935-1605975135
 
 #EXTINF:-1 group-title="Indian",ZEE BANGLA HD
 http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
@@ -163,14 +148,7 @@ https://storage.sunplex.net/Movies/South%20Indian%20Movies/Tamil%20Movies/2018/H
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg" group-title="Movie.",Spider-Man: Homecoming
 https://storage.sunplex.net/Movies/English%20Movies/2017/Spider-Man.Homecoming.2017.WEB-DL.x264-FGT.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Iron_Man_poster.jpg" group-title="Movie.",Iron Man
-https://storage.sunplex.net/Movies/English%20Movies/2008/Iron%20Man%202008.720p.BrRip.x264.YIFY%20-Audio%20English.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg" group-title="Movie.",Iron Man 2
-https://storage.sunplex.net/Movies/English%20Movies/2010/Iron%20Man%202%20%282010%29/Iron.Man.2.2010.1080p.BrRip.x264.AAC-Audio%20English.mp4?raw=1
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg" group-title="Movie.",Iron Man 3
-https://storage.sunplex.net/Movies/English%20Movies/2013/Iron%20Man%203%20%282013%29/Iron.Man.3.2013.720p.Bluray.x264.AAC.VTL.mp4?raw=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Invasion_2020_poster.jpg" group-title="Movie.",Invasion
 https://storage.sunplex.net/Movies/Foreign%20Movies/Russian%20Movies/2020/Invasion%20%282020%29/Invasion.2020.1080p.BDRip.x264.AAC.VTL.mp4?raw=1
@@ -178,11 +156,14 @@ https://storage.sunplex.net/Movies/Foreign%20Movies/Russian%20Movies/2020/Invasi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/D2-poster-ver2.jpg" group-title="Movie.",Dhoom 2
 https://storage.sunplex.net/Movies/Hindi%20Movies/2006/Dhoom%202%20%282006%29/Dhoom.2.2006.BluRay.1080p.H264.AAC.VTL.mp4?raw=1
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Chhalaang_film_poster.jpg" group-title="Movie",Chhalaang
+https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Chhalaang%20%282020%29/Chhalaang.2020.Hindi.720p.WEBRip.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Laxmii_poster.jpg" group-title="Movie",Laxmii
+https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Laxmii%20%282020%29/Laxmii.2020.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Padman_poster.jpg" group-title="Movie",Padman
 https://storage.sunplex.net/Movies/Hindi%20Movies/2018/Pad%20Man%20%282018%29/Pad%20Man%202018%20Hindi%201080p%20WEB-DL%20x264%20AAC%20-%20Hon3yHD.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="Movie.",
-?raw=1
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/DJ_film_poster.jpg" group-title="Allu Arjun",Duvvada Jagannadham
@@ -224,7 +205,14 @@ https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Jawaani%20Jaaneman%20%282
 https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Jai%20Mummy%20Di%20%282020%29/Jai.Mummy.Di.%282020%29.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Iron_Man_poster.jpg" group-title="Movie.",Iron Man
+https://storage.sunplex.net/Movies/English%20Movies/2008/Iron%20Man%202008.720p.BrRip.x264.YIFY%20-Audio%20English.mp4?raw=1
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg" group-title="Movie.",Iron Man 2
+https://storage.sunplex.net/Movies/English%20Movies/2010/Iron%20Man%202%20%282010%29/Iron.Man.2.2010.1080p.BrRip.x264.AAC-Audio%20English.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg" group-title="Movie.",Iron Man 3
+https://storage.sunplex.net/Movies/English%20Movies/2013/Iron%20Man%203%20%282013%29/Iron.Man.3.2013.720p.Bluray.x264.AAC.VTL.mp4?raw=1
 
 
 
