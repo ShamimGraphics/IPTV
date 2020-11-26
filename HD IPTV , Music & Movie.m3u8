@@ -38,35 +38,49 @@ https://www.dropbox.com/s/a40ei4ohit9q04w/Shudhu%20Tomari%20Jonyo%20%28%E0%A6%B6
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://d1w5mpkwnbmmie.cloudfront.net/media_content/images/logo.png",SET MAX HD
 http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies",ZEE CINEMA
 http://172.32.1.88:1935/tvprogram/ZEE-CINEMA/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://banner2.cleanpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg",জলসা Movies HD
 http://172.32.1.88:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_logo.png",বাংলাদেশ টেলিভিশন
 http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_4/public/feature/images/somoy-tv-logo.jpg?itok=6Zm57T5Z",সময় TV
 http://172.32.1.88:1935/tvprogram/SOMOY-TV/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/JamunaTV_logo.jpg",JAMUNA TV
 http://172.32.1.88:1935/tvprogram/JAMUNA-TV/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1174px-Independent_Television_Logo.svg.png",INDEPENDENT TV
 http://172.32.1.88:1935/tvprogram/INDEPENDENT/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg",MAASRANGA TV
 http://172.32.1.88:1935/tvprogram/MAASRANGA-TV/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1280px-Channel-i.svg.png",CHANNEL I
 http://172.32.1.88:1935/tvprogram/CHANNEL-I/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1280px-Channel9_bd.svg.png",CHANNEL 9
 http://172.32.1.88:1935/tvprogram/CHANNEL-9/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg",দুরন্ত TV
 http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",DEPTO BANGLA
 http://172.32.1.88:1935/tvprogram/DEPTO-BANGLA/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png",নাগরিক TV
 http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png",SATV
 http://172.32.1.88:1935/tvprogram/SATV/playlist.m3u8
+
 #EXTINF:-1 group-title="Music",Sangeet Bangla
 http://172.32.1.88:1935/tvprogram/SANGEET-BANGLA/playlist.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/fD7wLka.jpg",9xM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
@@ -76,32 +90,17 @@ https://ccntv.anytv.live/zoom/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://s8.gifyu.com/images/S6d9cb2S.png",Dhoom
 https://ccntv.anytv.live/dhoom/index.m3u8
 
-#EXTINF:-1 group-title="Music",9X JALWA
-http://172.32.1.88:1935/tvprogram/9X-JALWA/playlist.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/DJhTTmR.png",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/XooMA08.jpg",B4U Music
-http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/Qj3xwcc.jpg",Zing
-https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies",HBO
 http://172.32.1.88:1935/tvprogram/HBO/playlist.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH
 http://172.32.1.88:1935/tvprogram/BBC-EARTH/playlist.m3u8
 
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://regularcapital.toonsphere.com/wp-content/uploads/2018/04/CartoonNetworkHDLogo.png",CARTOON NETWORK
-http://172.32.1.88:1935/tvprogram/CARTOON/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Indian" tvg-logo="https://www.adgully.com/img/800/202003/bollywood-premiere-logo.png.jpg",Shemaroo Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-
-
-#EXTINF:-1 group-title="Indian",SONY HD
-http://172.32.1.88:1935/tvprogram/SONY-HD/playlist.m3u8
-
 
 #EXTINF:-1 group-title="Indian",ZEE BANGLA HD
 http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
@@ -109,15 +108,6 @@ http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",STAR JALSHA
 http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 
-#EXTINF:-1 group-title="Indian",SONY AATH
-http://172.32.1.88:1935/tvprogram/SONY-AATH/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Enterr_10.png",Enter 10 Movies
-http://172.32.1.88:1935/tvprogram/star-utsav-movies/playlist.m3u8
 
 
 
