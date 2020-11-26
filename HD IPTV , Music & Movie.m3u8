@@ -8,7 +8,8 @@ http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg" group-title="Movie.",3 Idiots
 https://storage.sunplex.net/Movies/Hindi%20Movies/2009/3%20Idiots%20%282009%29/3.Idiots.2009.Hindi.1080p.BluRay.264.AAC.HDMA.VTL.mp4?raw=1
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Ki_Kore_Toke_Bolbo_-_Movie_Poster.jpg" group-title="Movie.",Ki Kore Toke Bolbo
+https://storage.sunplex.net/Movies/Bangla%20Movies/Indian%20Bangla/2016/0/Ki%20Kore%20Toke%20Bolbo%20%282016%29.mp4?raw=1
 
 
 #EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://s2.gifyu.com/images/did-you-know-arijit-singh-gave-around-1200-takes-for-kalank-title-track-2.jpg",Kalank
@@ -54,7 +55,11 @@ http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
 http://aklivetv.com:8080/somoytv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/JamunaTV_logo.jpg",JAMUNA TV
-https://zero4tv.anytv.live/jamuna/index.m3u8
+http://172.32.1.88:1935/tvprogram/JAMUNA-TV/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ntv_national_tv_uk.jpg",NTV
+http://172.32.1.88:1935/tvprogram/N-TV/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",EKATTOR TV
+http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
 
 #EXTINF:-1,News 24
 http://aklivetv.com:8080/news24/tracks-v1a1/mono.m3u8
@@ -71,8 +76,6 @@ http://172.32.1.88:1935/tvprogram/CHANNEL-I/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1280px-Channel9_bd.svg.png",CHANNEL 9
 http://172.32.1.88:1935/tvprogram/CHANNEL-9/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg",দুরন্ত TV
-http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",DEPTO BANGLA
 http://172.32.1.88:1935/tvprogram/DEPTO-BANGLA/playlist.m3u8
@@ -80,8 +83,6 @@ http://172.32.1.88:1935/tvprogram/DEPTO-BANGLA/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png",নাগরিক TV
 http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png",SATV
-http://172.32.1.88:1935/tvprogram/SATV/playlist.m3u8
 
 #EXTINF:-1 group-title="Music",Sangeet Bangla
 http://172.32.1.88:1935/tvprogram/SANGEET-BANGLA/playlist.m3u8
@@ -97,6 +98,7 @@ https://ccntv.anytv.live/dhoom/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/DJhTTmR.png",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?
+  
 
 #EXTINF:-1 group-title="Indian",ZEE BANGLA HD
 http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
