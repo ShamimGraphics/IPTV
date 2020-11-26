@@ -51,10 +51,13 @@ http://172.32.1.88:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_4/public/feature/images/somoy-tv-logo.jpg?itok=6Zm57T5Z",সময় TV
-http://172.32.1.88:1935/tvprogram/SOMOY-TV/playlist.m3u8
+http://aklivetv.com:8080/somoytv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/JamunaTV_logo.jpg",JAMUNA TV
-http://172.32.1.88:1935/tvprogram/JAMUNA-TV/playlist.m3u8
+https://zero4tv.anytv.live/jamuna/index.m3u8
+
+#EXTINF:-1,News 24
+http://aklivetv.com:8080/news24/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1174px-Independent_Television_Logo.svg.png",INDEPENDENT TV
 http://172.32.1.88:1935/tvprogram/INDEPENDENT/playlist.m3u8
