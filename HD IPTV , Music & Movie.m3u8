@@ -93,10 +93,7 @@ http://172.32.1.88:1935/tvprogram/BBC-EARTH/playlist.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://regularcapital.toonsphere.com/wp-content/uploads/2018/04/CartoonNetworkHDLogo.png",CARTOON NETWORK
 http://172.32.1.88:1935/tvprogram/CARTOON/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/History2_Canada.png",History 2
-http://172.32.1.88:1935/tvprogram/H2/playlist.m3u8
-#EXTINF:-1 group-title="Music",MTV
-http://172.32.1.88:1935/tvprogram/MTV/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://www.adgully.com/img/800/202003/bollywood-premiere-logo.png.jpg",Shemaroo Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
@@ -114,10 +111,8 @@ http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 
 #EXTINF:-1 group-title="Indian",SONY AATH
 http://172.32.1.88:1935/tvprogram/SONY-AATH/playlist.m3u8
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png",DISENY CARTOON
-http://172.32.1.88:1935/tvprogram/DISENY/playlist.m3u8
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg",SONY YAY
-http://172.32.1.88:1935/tvprogram/SONY-YAY/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
