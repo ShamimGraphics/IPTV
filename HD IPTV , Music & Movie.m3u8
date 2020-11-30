@@ -125,29 +125,29 @@ http://aklivetv.com:8080/zeebanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",STAR JALSHA
 http://aklivetv.com:8080/starjalsha/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,AL-Quran Radio
+#EXTINF:-1 , group-title="Radio" tvg-logo="https://s8.gifyu.com/images/al-quran-1.jpg",AL-Quran Radio
 http://radio.yaservers.com:9966/;
 
-#EXTINF:-1,Radio Today
+#EXTINF:-1, group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/RadioTodayFM89.6.png",Radio Today
 http://118.179.219.244:8000/;
 
-#EXTINF:-1,Radio Foorti
+#EXTINF:-1, group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Radio_foorti.jpg",Radio Foorti
 http://119.148.23.88:1021/;
 
-#EXTINF:-1,Radio Shadhin
+#EXTINF:-1, group-title="Radio" tvg-logo="https://static-media.streema.com/media/cache/76/d9/76d92014bf223e2f968eb67d6b6ebbb8.jpg",Radio Shadhin
 http://s3.myradiostream.com:14498/;
 
-#EXTINF:-1, Radio goongoon
+#EXTINF:-1, group-title="Radio" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2010/05/radio-goongoon.jpg",Radio goongoon
 http://live.radiogoongoon.com:8888/stream/1;
 
-#EXTINF:-1, Dhaka FM
+#EXTINF:-1, group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Dhakafm_90.4.png",Dhaka FM
 http://118.179.219.244:8000/;
 
 
-#EXTINF:-1,Radio Today FM 89.6
+#EXTINF:-1, group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/RadioTodayFM89.6.png",Radio Today FM 89.6
 https://stream.zenolive.com/0zha3rfq02quv
 
-#EXTINF:-1,Radio Foorti 88.0FM
+#EXTINF:-1, group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Radio_foorti.jpg",Radio Foorti 88.0FM
 https://stream.zenolive.com/f0bfdk2w34zuv
 
 
