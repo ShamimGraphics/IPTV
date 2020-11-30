@@ -5,6 +5,13 @@ https://www.dropbox.com/s/596on2red70vc83/Ar%20Kono%20Kotha%20Na%20Bole%28Full%2
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1000px-2019_Discovery_logo.svg.png",DISCOVERY HD
 http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
 
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://i.imgur.com/4Wfs9kj.png",Discovery Science
+https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+
+
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD
+https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg" group-title="Movie.",3 Idiots
 https://storage.sunplex.net/Movies/Hindi%20Movies/2009/3%20Idiots%20%282009%29/3.Idiots.2009.Hindi.1080p.BluRay.264.AAC.HDMA.VTL.mp4?raw=1
 
