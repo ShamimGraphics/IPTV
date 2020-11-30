@@ -2,14 +2,14 @@
 #EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Arijit_5th_GiMA_Awards.jpg",Arijit Singh
 https://www.dropbox.com/s/596on2red70vc83/Ar%20Kono%20Kotha%20Na%20Bole%28Full%20Video%29%20Shikari%20Shakib%20Khan%20Srabanti%20Arijit%20Singh%20Love%20Song%281080p%29.mp4?raw=1
 
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1000px-2019_Discovery_logo.svg.png",DISCOVERY HD
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://s8.gifyu.com/images/Discovery_HD_logo_2009.png",DISCOVERY HD
 http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
 
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://i.imgur.com/4Wfs9kj.png",Discovery Science
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 
 
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://s8.gifyu.com/images/1000px-Animal_Planet_logo_2018.svg.png",ANIMAL PLANET HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg" group-title="Movie.",3 Idiots
