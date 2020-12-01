@@ -52,6 +52,16 @@ http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
 #EXTINF:-1 group-title="Movies",ZEE CINEMA
 http://172.32.1.88:1935/tvprogram/ZEE-CINEMA/playlist.m3u8
 
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png",Zee Cinema HD
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+
+
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png",Star Gold HD
+http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold select HD
+http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
+
 #EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/2020%E2%80%9321_Bangabandhu_T20_Cup.png",Bangabandhu T20 Cup
 http://172.32.1.88:1935/tvprogram/Lifetime/playlist.m3u8
 
@@ -107,7 +117,7 @@ https://ccntv.anytv.live/zoom/index.m3u8
 https://ccntv.anytv.live/dhoom/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/DJhTTmR.png",Music India
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?
+http://172.32.1.88:1935/tvprogram/MUSIC-INDIA/playlist.m3u8
   
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://s8.gifyu.com/images/USKY2MD6.png",ZEE BANGLA HD
@@ -186,5 +196,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/qowJChe.jpg?1",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.imgur.com/0piOCHd.png?1",Sony MAX2
+http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
 
 
