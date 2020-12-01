@@ -217,6 +217,14 @@ https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg",BBC Lifestyle HD
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
+
+
+#EXTINF:-1,STAR MOVIES
+http://172.32.1.88:1935/tvprogram/STAR-MOVIES-SD/playlist.m3u8
+
+#EXTINF:-1,AXN HD
+http://172.32.1.88:1935/tvprogram/AXN-HD/playlist.m3u8
+
 #EXTINF:-1 group-title="HINDI",B4U MOVIES
 http://172.32.1.88:1935/tvprogram/B4U-MOVIES/playlist.m3u8
 
@@ -266,5 +274,42 @@ http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png",Zee TV HD
 http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
 
+#EXTINF:-1,BBC WORLD
+http://172.32.1.88:1935/tvprogram/BBC-WORLD/playlist.m3u8
+#EXTINF:-1,Aljazeera HD
+http://172.32.1.88:1935/tvprogram/Aljazeera-HD/playlist.m3u8
+#EXTINF:-1,Kolkata TV
+http://172.32.1.88:1935/tvprogram/Kolkata-TV/playlist.m3u8
+
+#EXTINF:-1,DURONTO TV
+http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://172.32.1.88:1935/tvprogram/CARTOON/playlist.m3u8
+#EXTINF:-1,DISENY CARTOON
+http://172.32.1.88:1935/tvprogram/DISENY/playlist.m3u8
+#EXTINF:-1,SONY YAY
+http://172.32.1.88:1935/tvprogram/SONY-YAY/playlist.m3u8
+#EXTINF:-1,CBeebies
+http://172.32.1.88:1935/tvprogram/CBeebies/playlist.m3u8
+#EXTINF:-1,NICK
+http://172.32.1.88:1935/tvprogram/NICK-SD/playlist.m3u8
+
+#EXTINF:-1,MTV
+http://172.32.1.88:1935/tvprogram/MTV/playlist.m3u8
+
+#EXTINF:-1,E24
+http://172.32.1.88:1935/tvprogram/E24/playlist.m3u8
+
+#EXTINF:-1,History 2
+http://172.32.1.88:1935/tvprogram/H2/playlist.m3u8
+
+#EXTINF:-1,AKASH AATH
+http://172.32.1.88:1935/tvprogram/Aakaash-Aath/playlist.m3u8
+
+#EXTINF:-1,DW
+http://172.32.1.88:1935/tvprogram/DW-HD/playlist.m3u8
+
+#EXTINF:-1,Manoranjan Movies
+http://172.32.1.88:1935/tvprogram/Manoranjan-Movies/playlist.m3u8
 
 
