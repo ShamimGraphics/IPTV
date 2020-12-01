@@ -326,3 +326,9 @@ http://172.32.1.88:1935/tvprogram/TEN-GOLF/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
 #EXTINF:-1,DSPORTS
 http://172.32.1.88:1935/tvprogram/DSPORTS/playlist.m3u8
+
+#EXTINF:-1,SONY AATH
+http://172.32.1.88:1935/tvprogram/SONY-AATH/playlist.m3u8
+
+#EXTINF:-1,TRAVEL XP
+http://172.32.1.88:1935/tvprogram/TRAVELXP-BANGLA/playlist.m3u8
