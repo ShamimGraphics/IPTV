@@ -312,4 +312,17 @@ http://172.32.1.88:1935/tvprogram/DW-HD/playlist.m3u8
 #EXTINF:-1,Manoranjan Movies
 http://172.32.1.88:1935/tvprogram/Manoranjan-Movies/playlist.m3u8
 
-
+#EXTINF:-1,TEN 1 HD
+http://172.32.1.88:1935/tvprogram/TEN-1HD/playlist.m3u8
+#EXTINF:-1,SONY ESPN HD 
+http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
+#EXTINF:-1,SONY SIX HD
+http://172.32.1.88:1935/tvprogram/SONY-SIXHD/playlist.m3u8
+#EXTINF:-1,TEN 2
+http://172.32.1.88:1935/tvprogram/TEN-2/playlist.m3u8
+#EXTINF:-1,SONY TEN GOLF HD
+http://172.32.1.88:1935/tvprogram/TEN-GOLF/playlist.m3u8
+#EXTINF:-1,STAR SPORTS 1
+http://172.32.1.88:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
+#EXTINF:-1,DSPORTS
+http://172.32.1.88:1935/tvprogram/DSPORTS/playlist.m3u8
