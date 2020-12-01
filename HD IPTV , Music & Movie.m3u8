@@ -241,6 +241,30 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.imgur.com/0piOCHd.png?1",Sony MAX2
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/EB.png",Enter 10 Bangla
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/enter10.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/WvrfVsv.jpg",Zee Bangla Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/g5AQzAK.jpg",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU",Star Plus HD
+http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg",Star Bharat HD
+http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png",Sony HD
+http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB HD
+http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1",Sony Pal
+http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors HD
+http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/ColorsRisthey.png/revision/latest/scale-to-width-down/340?cb=20190307235506",Colors Rishtey
+http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png",Zee TV
+http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png",Zee TV HD
+http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
 
 
 
