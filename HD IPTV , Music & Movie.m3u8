@@ -71,7 +71,7 @@ http://172.32.1.88:1935/tvprogram/N-TV/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",EKATTOR TV
 http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
 
-#EXTINF:-1,News 24
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg",News 24
 http://aklivetv.com:8080/news24/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1174px-Independent_Television_Logo.svg.png",INDEPENDENT TV
@@ -128,10 +128,10 @@ http://aklivetv.com:8080/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , group-title="Radio" tvg-logo="https://s8.gifyu.com/images/al-quran-1.jpg",AL-Quran Radio
 http://radio.yaservers.com:9966/;
 
-#EXTINF:-1, group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/RadioTodayFM89.6.png",Radio Today
+#EXTINF:-1, group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/RadioTodayFM89.6.png",Radio Today FM 89.6
 http://118.179.219.244:8000/;
 
-#EXTINF:-1, group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Radio_foorti.jpg",Radio Foorti
+#EXTINF:-1, group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Radio_foorti.jpg",Radio Foorti 88.0FM
 http://119.148.23.88:1021/;
 
 #EXTINF:-1, group-title="Radio" tvg-logo="https://static-media.streema.com/media/cache/76/d9/76d92014bf223e2f968eb67d6b6ebbb8.jpg",Radio Shadhin
@@ -142,13 +142,6 @@ http://live.radiogoongoon.com:8888/stream/1;
 
 #EXTINF:-1, group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Dhakafm_90.4.png",Dhaka FM
 http://118.179.219.244:8000/;
-
-
-#EXTINF:-1, group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/RadioTodayFM89.6.png",Radio Today FM 89.6
-https://stream.zenolive.com/0zha3rfq02quv
-
-#EXTINF:-1, group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Radio_foorti.jpg",Radio Foorti 88.0FM
-https://stream.zenolive.com/f0bfdk2w34zuv
 
 
 
