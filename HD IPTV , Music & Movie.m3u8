@@ -150,4 +150,41 @@ http://118.179.219.244:8000/;
 ?raw=1
 
 
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/ESeGnT2.jpg",Discovery HD ENGLISH
+https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8?@IPTVSolution
+
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD [HINDI]
+https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD [ENGLISH]
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="http://i.imgur.com/TInMfsC.png",TLC HD
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg",BBC Lifestyle HD
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="HINDI",B4U MOVIES
+http://172.32.1.88:1935/tvprogram/B4U-MOVIES/playlist.m3u8
+
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1",BOX CINEMA
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.imgur.com/TCRYibC.png",ABZY MOVIES
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.imgur.com/fPuBXRz.jpg",MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.imgur.com/TkRBcZX.jpg",MANORANJAN TV
+https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
+
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/qowJChe.jpg?1",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
 
