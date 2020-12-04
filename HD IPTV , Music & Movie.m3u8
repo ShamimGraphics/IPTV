@@ -182,6 +182,18 @@ http://118.179.219.244:8000/;
 #EXTINF:-1, group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Radio_foorti.jpg",Radio Foorti 88.0FM
 http://119.148.23.88:1021/;
 
+#EXTINF:-1 group-title="RADIO/FM LIVE" tvg-logo="https://media.radiomirchi.com/onlinestation/banners/MirchiTop20651.jpg",Radio Mirchi - Mirchi Top 20
+https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8
+
+#EXTINF:-1 group-title="RADIO/FM LIVE" tvg-logo="https://img.etimg.com/thumb/width-640,height-480,imgsize-42753,resizemode-1,msid-71679942/industry/media/entertainment/radio-mirchi-not-just-a-radio-firm/radio-mirchi-agencies.jpg",Radio Mirchi
+http://peridot.streamguys.com:7150/Mirchi
+
+#EXTINF:-1 group-title="RADIO/FM LIVE" tvg-logo="https://onlineradiofm.in/assets/image/radio/180/mirchi90s.png",Radio Mirchi - 90s Hit Songs
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
+
+#EXTINF:-1 group-title="RADIO/FM LIVE" tvg-logo="https://onlineradiofm.in/assets/image/radio/180/filmy-mirchi.png",Radio Mirchi - Filmy Mirchi
+https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
+
 #EXTINF:-1, group-title="Radio" tvg-logo="https://static-media.streema.com/media/cache/76/d9/76d92014bf223e2f968eb67d6b6ebbb8.jpg",Radio Shadhin
 http://s3.myradiostream.com:14498/;
 
