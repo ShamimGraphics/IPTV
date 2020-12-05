@@ -19,33 +19,35 @@ http://172.32.1.88:1935/tvprogram/ZEE-CINEMA/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg",Songsad TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="",T SPORTS
+#EXTINF:0 tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_4/public/feature/images/somoy-tv-logo.jpg?itok=6Zm57T5Z" group-title="Bangladesh",Shomoy TV
+https://rhridoy136.shortcm.li/shomoytv.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1174px-Independent_Television_Logo.svg.png" group-title="Bangladesh",Independent
+https://rhridoy136.shortcm.li/independenttv.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/JamunaTV_logo.jpg" group-title="Bangladesh",Jamuna TV
+https://rhridoy136.shortcm.li/jamunatv.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T SPORTS
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="",BTV World
+#EXTINF:-1 group-title="Live" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288",BTV World
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/2020%E2%80%9321_Bangabandhu_T20_Cup.png",Bangabandhu T20 Cup
 http://172.32.1.88:1935/tvprogram/Lifetime/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://banner2.cleanpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg",জলসা Movies HD
 http://172.32.1.88:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x91288" group-title="Bangladesh",Sangsad TV
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x91288" group-title="Bangladesh",Sangsad TV
 https://rhridoy136.shortcm.li/sangsadtv.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_logo.png",বাংলাদেশ টেলিভিশন
 http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="Bangladesh",News 24
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="Bangladesh",News 24
 https://rhridoy136.shortcm.li/news24.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x91288" group-title="Bangladesh",NTV
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x91288" group-title="Bangladesh",NTV
 https://rhridoy136.shortcm.li/ntv.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x91288" group-title="Bangladesh",RTV
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x91288" group-title="Bangladesh",RTV
 https://rhridoy136.shortcm.li/rtv.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Bangladesh",RTV Music
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Bangladesh",RTV Music
 https://rhridoy136.shortcm.li/rtvmusic.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="Bangladesh",Shomoy TV
-https://rhridoy136.shortcm.li/shomoytv.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
-https://rhridoy136.shortcm.li/jamunatv.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="Bangladesh",Asian TV
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="Bangladesh",Asian TV
 https://rhridoy136.shortcm.li/asiantv.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288" group-title="Bangladesh",ATN Bangla
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288" group-title="Bangladesh",ATN Bangla
 https://rhridoy136.shortcm.li/atnbangla.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangladesh",ATN News
 https://rhridoy136.shortcm.li/atnnews.m3u8
@@ -67,23 +69,21 @@ https://rhridoy136.shortcm.li/channel24.m3u8
 https://rhridoy136.shortcm.li/channeli.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="Bangladesh",DBC News
 https://rhridoy136.shortcm.li/dbcnews.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Deepto_TV#/media/File:Deepto_TV_logo.png" group-title="Bangladesh",Deepto TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladesh",Deepto TV
 https://rhridoy136.shortcm.li/deeptotv.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Bangladesh",Desh TV
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/b2/d9/d1/b2d9d1a4dd594c8f0bedfaf9f6a95b2c.jpg" group-title="Bangladesh",Desh TV
 https://rhridoy136.shortcm.li/deshtv.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Duronto_TV#/media/File:Duronto_TV_logo.jpg" group-title="Bangladesh",Duronto TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="Bangladesh",Duronto TV
 https://rhridoy136.shortcm.li/durontotv.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Ekattor_TV#/media/File:Ekattor_TV_logo.png" group-title="Bangladesh",Ekattor
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangladesh",Ekattor
 https://rhridoy136.shortcm.li/ekattortv.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Ekushey_Television#/media/File:ETV.jpg" group-title="Bangladesh",Ekushey TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Bangladesh",Ekushey TV
 https://rhridoy136.shortcm.li/ekusheytv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x91288" group-title="Bangladesh",Gaan Bangla
 https://rhridoy136.shortcm.li/gaanbangla.m3u8
 #EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/GTV_(Bangladesh)#/media/File:GTVBangladeshLogo.png" group-title="Bangladesh",GTV
 https://rhridoy136.shortcm.li/gazitv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="Bangladesh",Independent
-https://rhridoy136.shortcm.li/independenttv.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Maasranga_Television#/media/File:Maasranga_Television_Logo.jpg" group-title="Bangladesh",Maasranga
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangladesh",Maasranga Tv
 https://rhridoy136.shortcm.li/maasrangatv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288" group-title="Bangladesh",MOHONA TV
 https://rhridoy136.shortcm.li/mohonatv.m3u8
@@ -97,7 +97,7 @@ https://rhridoy136.shortcm.li/satv.m3u8
 https://rhridoy136.shortcm.li/atnislamic.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x91288" group-title="Bangladesh",ATN Music
 https://rhridoy136.shortcm.li/atnmusic.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/titashsports1.jpg" group-title="Bangladesh",T Sports HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh",T Sports HD
 https://rhridoy136.shortcm.li/titashsports.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://s8.gifyu.com/images/STAR-JALSHA-HDb00a0535ed792fc6.png",STAR JALSHA HD
 http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
