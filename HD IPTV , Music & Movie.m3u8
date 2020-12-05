@@ -18,7 +18,7 @@ https://storage.sunplex.net/Movies/Hindi%20Movies/2009/3%20Idiots%20%282009%29/3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Ki_Kore_Toke_Bolbo_-_Movie_Poster.jpg" group-title="Movie.",Ki Kore Toke Bolbo
 https://storage.sunplex.net/Movies/Bangla%20Movies/Indian%20Bangla/2016/0/Ki%20Kore%20Toke%20Bolbo%20%282016%29.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4RdvNFM12_E/maxresdefault.jpg" group-title="Ityadi",Pabna
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Pabna
 https://www.dropbox.com/s/3dhewf0m79sz2cz/Ityadi%20-Pabna.mp4?raw=1
 
 
@@ -33,7 +33,7 @@ http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
 #EXTINF:-1 group-title="Movies",ZEE CINEMA
 http://172.32.1.88:1935/tvprogram/ZEE-CINEMA/playlist.m3u8
 
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png",Zee Cinema HD
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://s8.gifyu.com/images/sjM1MbFR.png",Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg",Songsad TV
@@ -46,9 +46,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 group-title="Live" tvg-logo="",BTV World
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
-
-#EXTINF:-1 group-title="Live" tvg-logo="",Zee Cinema HD
-http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Live" tvg-logo="",
