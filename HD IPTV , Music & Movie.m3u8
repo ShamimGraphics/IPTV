@@ -68,15 +68,27 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 group-title="Live" tvg-logo="https://s8.gifyu.com/images/sFq8aLSO8YQl18aDgzJYhtdHmxRhowBrWqWqM-RGqep08RnDqu0lg7z7kfhIkmaNkuWecGgoqil1B3clcyCTYa40CpXerdfqB36N6OqR1Zf4NqjoOxIQ.jpg",My Cinema
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-logo="",
+#EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg",NEWS24 TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-logo="",Bangla Vision HD
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-logo="",Zee Cinema HD
+http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-logo="",Mohona TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-logo="",ATN Islamic TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 
 
 #EXTINF:-1 group-title="Live" tvg-logo="",
 
-
 #EXTINF:-1 group-title="Live" tvg-logo="",
 
-
+#EXTINF:-1 group-title="Live" tvg-logo="",
 
 
 
