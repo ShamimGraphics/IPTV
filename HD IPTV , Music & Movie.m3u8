@@ -35,10 +35,16 @@ http://172.32.1.88:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="Bangladesh",News 24
 https://rhridoy136.shortcm.li/news24.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x91288" group-title="Bangladesh",NTV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1280px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladesh",NTV
 https://rhridoy136.shortcm.li/ntv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x91288" group-title="Bangladesh",RTV
 https://rhridoy136.shortcm.li/rtv.m3u8
+#EXTINF:-1 group-title="Music",Sangeet Bangla
+http://172.32.1.88:1935/tvprogram/SANGEET-BANGLA/playlist.m3u8
+#EXTINF:-1 tvg-id="9XM(src07).in(m3u4u)" tvg-name="9XM" tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2019/08/are-you-huge-music-aficionado-give-9xm-soundcaste-podcast-list.jpg" group-title="Music",9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
+#EXTINF:-1 group-title="Music",MUSIC INDIA
+http://172.32.1.88:1935/tvprogram/MUSIC-INDIA/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Bangladesh",RTV Music
 https://rhridoy136.shortcm.li/rtvmusic.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="Bangladesh",Asian TV
@@ -99,6 +105,24 @@ https://rhridoy136.shortcm.li/titashsports.m3u8
 http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://s8.gifyu.com/images/USKY2MD6.png",ZEE BANGLA HD
 http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="",Radio Today FM 89.6
+http://118.179.219.244:8000/;
+#EXTINF:-1 group-title="Radio" tvg-logo="",Radio Foorti 88.0FM
+http://119.148.23.88:1021/;
+#EXTINF:-1 group-title="Radio" tvg-logo="", Dhaka FM
+http://118.179.219.244:8000/;
+#EXTINF:-1 group-title="RADIO/FM LIVE" tvg-logo="",Radio Mirchi - Mirchi Top 20
+https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8
+#EXTINF:-1 group-title="RADIO/FM LIVE" tvg-logo="",Radio Mirchi
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1 group-title="RADIO/FM LIVE" tvg-logo="",Radio Mirchi - Filmy Mirchi
+https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
+#EXTINF:-1 group-title="RADIO/FM LIVE" tvg-logo="",Radio Mirchi - 90s Hit Songs
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
+#EXTINF:-1 ,ZOOM
+https://ccntv.anytv.live/zoom/index.m3u8
+#EXTINF:-1 ,Dhoom
+https://ccntv.anytv.live/dhoom/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Bandarban
 https://www.dropbox.com/s/vyvg48ad1mb9ell/Ityadi%20-%20Bandarban.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Cox's Bazar
