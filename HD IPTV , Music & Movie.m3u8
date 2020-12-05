@@ -27,14 +27,12 @@ https://rhridoy136.shortcm.li/independenttv.m3u8
 https://rhridoy136.shortcm.li/jamunatv.m3u8
 #EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T SPORTS
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288",BTV World
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/2020%E2%80%9321_Bangabandhu_T20_Cup.png",Bangabandhu T20 Cup
 http://172.32.1.88:1935/tvprogram/Lifetime/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://banner2.cleanpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg",জলসা Movies HD
 http://172.32.1.88:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x91288" group-title="Bangladesh",Sangsad TV
-https://rhridoy136.shortcm.li/sangsadtv.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_logo.png",বাংলাদেশ টেলিভিশন
 http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="Bangladesh",News 24
