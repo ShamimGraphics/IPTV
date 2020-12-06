@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://a10.gaanacdn.com/images/albums/97/302297/crop_480x480_302297.jpg",Muskurane Arijit Singh
+#EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://a10.gaanacdn.com/images/albums/97/302297/crop_480x480_302297.jpg",Muskurane ᴴᴰ
 https://www.dropbox.com/s/djxln9f8yyce8h6/Muskurane_-_Arijit_Singh_I_Citylights_I_RajKummar_Rao%281080p%29.mp4?raw=1
-#EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://pbs.twimg.com/media/C8OLbvBV0AEQAPK.jpg",Jodi Bolo (যদি বলো)
+#EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://pbs.twimg.com/media/C8OLbvBV0AEQAPK.jpg",Jodi Bolo ᴴᴰ
 https://www.dropbox.com/s/wsebx021xj9ttb4/Jodi_Bolo_%28%E0%A6%AF%E0%A6%A6%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%8B%29__One_Movie_Song__Yash__Nusrat__Birsa_Dasgupta__Arijit_Singh__Arindom__SVF%281080p%29.mp4?raw=1
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://s8.gifyu.com/images/Discovery_HD_logo_2009.png",DISCOVERY HD
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://s8.gifyu.com/images/Discovery_HD_logo_2009.png",DISCOVERY ᴴᴰ
 http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://i.imgur.com/4Wfs9kj.png",Discovery Science
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://i.imgur.com/4Wfs9kj.png",Discovery Science ᴴᴰ
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://s8.gifyu.com/images/1000px-Animal_Planet_logo_2018.svg.png",ANIMAL PLANET HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg" group-title="Movie.",3 Idiots
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg" group-title="Movie.",3 Idiots ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2009/3%20Idiots%20%282009%29/3.Idiots.2009.Hindi.1080p.BluRay.264.AAC.HDMA.VTL.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Ki_Kore_Toke_Bolbo_-_Movie_Poster.jpg" group-title="Movie.",Ki Kore Toke Bolbo
 https://storage.sunplex.net/Movies/Bangla%20Movies/Indian%20Bangla/2016/0/Ki%20Kore%20Toke%20Bolbo%20%282016%29.mp4?raw=1
-#EXTINF:-1 group-title="Movies" tvg-logo="https://s8.gifyu.com/images/Sony_Max_HD.md.png",SET MAX HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://s8.gifyu.com/images/Sony_Max_HD.md.png",SET MAX ᴴᴰ
 http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
 #EXTINF:-1 group-title="Movies",ZEE CINEMA
 http://172.32.1.88:1935/tvprogram/ZEE-CINEMA/playlist.m3u8
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://s8.gifyu.com/images/sjM1MbFR.png",Zee Cinema HD
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://s8.gifyu.com/images/sjM1MbFR.png",Zee Cinema ᴴᴰ
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
-#EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg",Songsad TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg",Songsad TV ᴴᴰ
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_4/public/feature/images/somoy-tv-logo.jpg?itok=6Zm57T5Z" group-title="Bangladesh",Shomoy TV
 https://rhridoy136.shortcm.li/shomoytv.m3u8
@@ -148,77 +148,77 @@ https://www.dropbox.com/s/obzcxrqb5nb36hz/Ityadi%20-%20Sunamganj.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Sundarbans
 https://www.dropbox.com/s/9o0o5gkzdf8zq5o/Ityadi%20-%20%20Sundarbans.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Ala_Vaikunthapurramuloo.jpeg" group-title="Allu Arjun",Ala Vaikunthapurramuloo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Ala_Vaikunthapurramuloo.jpeg" group-title="Allu Arjun",Ala Vaikunthapurramuloo ᴴᴰ
 https://storage.sunplex.net/Movies/South%20Indian%20Movies/Tamil%20Movies/2020/Ala%20Vaikunthapurramloo%20%282020%29/Ala.Vaikunthapurramloo.%282020%29.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Y02gajGW3kY/maxresdefault.jpg" group-title="Movie.",K.G.F: Chapter 1
 https://storage.sunplex.net/Movies/South%20Indian%20Movies/Kannada%20Movies/2018/Hindi%20Dubbed/K.G.F.%20Chapter.1%20%282018%29/K.G.F-Chapter%201%20%28Hindi%29.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Saaho_poster.jpg" group-title="Movie.",Saaho
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Saaho_poster.jpg" group-title="Movie.",Saaho ᴴᴰ
 https://storage.sunplex.net/Movies/South%20Indian%20Movies/Tamil%20Movies/2019/Hindi%20Dubbed/Saaho%20%282019%29/Saaho.2019.1080p.x264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/2.0_film_poster.jpg" group-title="Movie.",2.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/2.0_film_poster.jpg" group-title="Movie.",2.0 ᴴᴰ
 https://storage.sunplex.net/Movies/South%20Indian%20Movies/Tamil%20Movies/2018/Hindi%20Dubbed/2.0%20%282018%29/2.0.2018.1080p.x264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg" group-title="Movie.",Spider-Man: Homecoming
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg" group-title="Movie.",Spider-Man: Homecoming ᴴᴰ
 https://storage.sunplex.net/Movies/English%20Movies/2017/Spider-Man.Homecoming.2017.WEB-DL.x264-FGT.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Invasion_2020_poster.jpg" group-title="Movie.",Invasion
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Invasion_2020_poster.jpg" group-title="Movie.",Invasion ᴴᴰ
 https://storage.sunplex.net/Movies/Foreign%20Movies/Russian%20Movies/2020/Invasion%20%282020%29/Invasion.2020.1080p.BDRip.x264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/D2-poster-ver2.jpg" group-title="Movie.",Dhoom 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/D2-poster-ver2.jpg" group-title="Movie.",Dhoom 2 ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2006/Dhoom%202%20%282006%29/Dhoom.2.2006.BluRay.1080p.H264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Chhalaang_film_poster.jpg" group-title="Movie",Chhalaang
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Chhalaang_film_poster.jpg" group-title="Movie",Chhalaang ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Chhalaang%20%282020%29/Chhalaang.2020.Hindi.720p.WEBRip.x264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Laxmii_poster.jpg" group-title="Movie",Laxmii
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Laxmii_poster.jpg" group-title="Movie",Laxmii ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Laxmii%20%282020%29/Laxmii.2020.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Padman_poster.jpg" group-title="Movie",Padman
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Padman_poster.jpg" group-title="Movie",Padman ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2018/Pad%20Man%20%282018%29/Pad%20Man%202018%20Hindi%201080p%20WEB-DL%20x264%20AAC%20-%20Hon3yHD.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/DJ_film_poster.jpg" group-title="Allu Arjun",Duvvada Jagannadham
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/DJ_film_poster.jpg" group-title="Allu Arjun",Duvvada Jagannadham ᴴᴰ
 https://storage.sunplex.net/Movies/South%20Indian%20Movies/Tamil%20Movies/2017/DJ%20Duvvada%20Jagannadham%202017%20Hindi%20720p%20WebDL%20AVC%20AAC%20Esub%20-%20mkvCinemas.mkv?raw=1
 
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Naa_Peru_Surya,_Naa_Illu_India.jpg" group-title="Allu Arjun",Naa Peru Surya – Naa Illu India
 https://storage.sunplex.net/Movies/South%20Indian%20Movies/Tamil%20Movies/2018/Hindi%20Dubbed/Naa%20Peru%20Surya%20Naa%20Illu%20India%20%282018%29/Naa%20Peru%20Surya%2C%20Naa%20Illu%20India.%282018%29.720p.HDRip%20-%28Dual%20Audio%29.x264.AAC.VTL-Hindi%20%2B%20Telugu.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Radha_poster.jpg" group-title="Movie.",Radha
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Radha_poster.jpg" group-title="Movie.",Radha ᴴᴰ
 https://storage.sunplex.net/Movies/South%20Indian%20Movies/Tamil%20Movies/2017/Hindi%20Dubbed/Radha%20%282017%29/Radha%20%282017%29%20720p.HDRip%20x264.%5BHindi%20Dubbed%5D-Audio%20Hindi.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Baahubali_The_Beginning_Movie_Poster.jpg" group-title="Movie.",Baahubali
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Baahubali_The_Beginning_Movie_Poster.jpg" group-title="Movie.",Baahubali ᴴᴰ
 https://storage.sunplex.net/Movies/South%20Indian%20Movies/Tamil%20Movies/2015/Hindi%20Dubbed/Baahubali%20The.Beginning%20%282015%29/Baahubali.The.Beginning.2015.720p.BluRay.AAC.x264-VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Baahubali_the_Conclusion.jpg" group-title="Movie.",Baahubali 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Baahubali_the_Conclusion.jpg" group-title="Movie.",Baahubali 2 ᴴᴰ
 https://storage.sunplex.net/Movies/South%20Indian%20Movies/Tamil%20Movies/2017/Hindi%20Dubbed/Baahubali%202%20The%20Conclusion%20%282017%29/Baahubali.2.The.Conclusion.%282017%29.720p.BluRay.AAC.x264-VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Bharat_Ane_Nenu_poster.jpg" group-title="Movie.",Bharat Ane Nenu
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Bharat_Ane_Nenu_poster.jpg" group-title="Movie.",Bharat Ane Nenu ᴴᴰ
 https://storage.sunplex.net/Movies/South%20Indian%20Movies/Tamil%20Movies/2018/Hindi%20Dubbed/Bharat%20Ane%20Nenu%20%282018%29/Bharat%20Ane%20Nenu%20%282018%29%20Hindi%20-%201080p%20HD%20AVC.AAC.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Hello_Guru_Prema_Kosame.jpg" group-title="Movie.",Hello Guru Prema Kosame
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Hello_Guru_Prema_Kosame.jpg" group-title="Movie.",Hello Guru Prema Kosame ᴴᴰ
 https://storage.sunplex.net/Movies/South%20Indian%20Movies/Tamil%20Movies/2018/Hindi%20Dubbed/Hello%20Guru%20Prema%20Kosame%20%282018%29/Hello%20Guru%20Prema%20Kosame%20%282018%29%201080p.x264.AAC.VTL-Hin.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Goodachari.jpg" group-title="Movie.",Goodachari
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Goodachari.jpg" group-title="Movie.",Goodachari ᴴᴰ
 https://storage.sunplex.net/Movies/South%20Indian%20Movies/Tamil%20Movies/2018/Hindi%20Dubbed/Goodachari%20%282018%29/Goodachari.Intelligent.Khiladi.Hindi%20Dubbed.1080p.x264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Jawaani_Jaaneman_film_poster.jpg" group-title="Movie.",Jawaani Jaaneman
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Jawaani_Jaaneman_film_poster.jpg" group-title="Movie.",Jawaani Jaaneman ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Jawaani%20Jaaneman%20%282020%29/Jawaani.Jaaneman.2020.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Jai_Mummy_Di_poster.jpg" group-title="Movie.",Jai Mummy Di
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Jai_Mummy_Di_poster.jpg" group-title="Movie.",Jai Mummy Di ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Jai%20Mummy%20Di%20%282020%29/Jai.Mummy.Di.%282020%29.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Iron_Man_poster.jpg" group-title="Movie.",Iron Man
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Iron_Man_poster.jpg" group-title="Movie.",Iron Man ᴴᴰ
 https://storage.sunplex.net/Movies/English%20Movies/2008/Iron%20Man%202008.720p.BrRip.x264.YIFY%20-Audio%20English.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg" group-title="Movie.",Iron Man 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg" group-title="Movie.",Iron Man 2 ᴴᴰ
 https://storage.sunplex.net/Movies/English%20Movies/2010/Iron%20Man%202%20%282010%29/Iron.Man.2.2010.1080p.BrRip.x264.AAC-Audio%20English.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg" group-title="Movie.",Iron Man 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg" group-title="Movie.",Iron Man 3 ᴴᴰ
 https://storage.sunplex.net/Movies/English%20Movies/2013/Iron%20Man%203%20%282013%29/Iron.Man.3.2013.720p.Bluray.x264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Dookudu_poster.jpg" group-title="Movie.",Dookudu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Dookudu_poster.jpg" group-title="Movie.",Dookudu ᴴᴰ
 https://storage.sunplex.net/Movies/South%20Indian%20Movies/Tamil%20Movies/2011/Original%20Language/Dookudu%20%282011%29.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Ginny_Weds_Sunny_film_poster.jpg" group-title="Movie.",Ginny Weds Sunny
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Ginny_Weds_Sunny_film_poster.jpg" group-title="Movie.",Ginny Weds Sunny ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Ginny%20Weds%20Sunny%20%282020%29/Ginny.Weds.Sunny.2020.1080p.NF.WEB-DL.DDP5.1.x264.AAC.VTL.mp4?raw=1
