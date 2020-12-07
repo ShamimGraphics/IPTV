@@ -9,6 +9,8 @@ http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://s8.gifyu.com/images/1000px-Animal_Planet_logo_2018.svg.png",ANIMAL PLANET HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQ1MGE0MzktZDI3Mi00ZDM3LThlNDItNjYyM2VkMWM2ODNmXkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_UY268_CR43,0,182,268_AL_.jpg",Biye.Com (2020)
+http://file.tajpata.com/downloads/Movies/Kolkata/2020/Biye.Com%20%282020%29/Biye.Com.%282020%29.1080p.Bengali.WEB-DL.AAC.ESub-DusIcTv.mkv?raw=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg" group-title="Movie.",3 Idiots ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2009/3%20Idiots%20%282009%29/3.Idiots.2009.Hindi.1080p.BluRay.264.AAC.HDMA.VTL.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Ki_Kore_Toke_Bolbo_-_Movie_Poster.jpg" group-title="Movie.",Ki Kore Toke Bolbo
@@ -125,6 +127,52 @@ https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
 https://ccntv.anytv.live/zoom/index.m3u8
 #EXTINF:-1 ,Dhoom
 https://ccntv.anytv.live/dhoom/index.m3u8
+#EXTINF:-1 group-title="Awards" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/12th_Mirchi_Music_Awards.jpeg",Mirchi Music Awards 2020
+http://file.tajpata.com/downloads/Awards%20Show/Mirchi%20Music%20Awards%202020%20Main%20Event%20720p.mp4?raw=1
+
+#EXTINF:-1 group-title="Awards" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/60th_Annual_Grammys.png",The 60th annual grammy awards 2018
+http://file.tajpata.com/downloads/Awards%20Show/The%2060th%20annual%20grammy%20awards%202018%20720p%20web%20x264.mp4?raw=1
+
+#EXTINF:-1 group-title="Awards" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/63rd_Filmfare_Awards_2018.jpg",63rd Jio Filmfare Awards 2018
+http://file.tajpata.com/downloads/Awards%20Show/63rd%20Jio%20Filmfare%20Awards%20%282018%29%20720p%20WEB-HD%20x264%20AAC%20Hindi%201.15GB.mp4?raw=1
+
+#EXTINF:-1 group-title="Awards" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/61st_Filmfare_Awards_logo.jpg",Filmfare Awards 2016
+http://file.tajpata.com/downloads/Awards%20Show/Filmfare%20Awards%2016th%20February%202020%20720p%20HDTV%20x264.mp4?raw=1
+
+#EXTINF:-1 group-title="Awards" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Gold_Awards.jpg",Gold Awards 2019
+http://file.tajpata.com/downloads/Awards%20Show/Gold%20Awards%202019%20Main%20Event%201080p%20WEBRIP%20H265.mp4?raw=1
+
+#EXTINF:-1 group-title="Awards" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/IIFA_trophy.jpg",IIFA Awards (Main Event) 20th October 2019
+http://file.tajpata.com/downloads/Awards%20Show/IIFA%20Awards%20%28Main%20Event%29%2020th%20October%202019%20720p%20HDTV%20x264.mp4?raw=1
+
+#EXTINF:-1 group-title="Awards" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/ITAAwards.jpg",ITA Awards (2019)
+http://file.tajpata.com/downloads/Awards%20Show/ITA%20Awards%20%282019%29%201080p%20WEB%20HD.mp4?raw=1
+
+#EXTINF:-1 group-title="Awards" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/IndianTellyLogo.jpg",Indian Telly Awards 2019
+http://file.tajpata.com/downloads/Awards%20Show/Indian%20Telly%20Awards%202019%20Main%20Event%201080p%20WEB-DL.mp4?raw=1
+
+#EXTINF:-1 group-title="Awards" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/63rd_Filmfare_Awards_2018.jpg",Jio Filmfare Awards (2018) 
+http://file.tajpata.com/downloads/Awards%20Show/Jio%20Filmfare%20Awards%20%282018%29%20720p%20HDRip.mp4?raw=1
+
+#EXTINF:-1 group-title="Awards" tvg-logo="https://cdn1.marathistars.com/wp-content/uploads/2015/10/Maharashtracha-Favourite-kon.jpg",Maharashtracha Favourite Kon 2019 
+http://file.tajpata.com/downloads/Awards%20Show/Maharashtracha%20Favourite%20Kon%202019%20Marathi%201080p%20x264.mp4?raw=1
+
+#EXTINF:-1 group-title="Awards" tvg-logo="https://www.bollywoodhungama.com/wp-content/uploads/2019/12/Winners-of-Star-Screen-Awards-2019.jpeg",Star Screen Awards 31st December 2019 
+http://file.tajpata.com/downloads/Awards%20Show/Star%20Screen%20Awards%2031st%20December%202019%20720p%20HDTV%20x264.mp4?raw=1
+
+
+#EXTINF:-1 group-title="Awards" tvg-logo="https://s8.gifyu.com/images/imagesqtbnANd9GcSj6dXrQE2LP8pdrlfaX_NL3kJ7H_QTdRxB9AusqpCAU.jpg",Umang Awards 26th January 2020
+http://file.tajpata.com/downloads/Awards%20Show/Umang%20Awards%2026th%20January%202020%20720p%20HDTV%20x264.mp4?raw=1
+
+#EXTINF:-1 group-title="Awards" tvg-logo="https://s8.gifyu.com/images/imagesqtbnANd9GcSj6dXrQE2LP8pdrlfaX_NL3kJ7H_QTdRxB9AusqpCAU.jpg",Umang Police Event (2018)
+http://file.tajpata.com/downloads/Awards%20Show/Umang%20Police%20Event%20%282018%29%20720p%20HDTV%20Rip.mp4?raw=1
+
+#EXTINF:-1 group-title="Awards" tvg-logo="https://stat1.bollywoodhungama.in/wp-content/uploads/2017/12/Nominations-for-Zee-Cine-Awards-2018.jpg",Zee Cine Awards (2018)
+http://file.tajpata.com/downloads/Awards%20Show/Zee%20Cine%20Awards%20%282018%29%20720p%20HDTVRip%20x264.mp4?raw=1
+
+#EXTINF:-1 group-title="Awards" tvg-logo="https://www.zeecineawards.com/wp-content/themes/zca/images/new-design/zca_2020.png",Zee Cine Awards (2020)
+http://file.tajpata.com/downloads/Awards%20Show/Zee%20Cine%20Awards%202020%201080P%20WEBRiP%20x265.mp4?raw=1
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Bandarban
 https://www.dropbox.com/s/vyvg48ad1mb9ell/Ityadi%20-%20Bandarban.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Ityadi",Cox's Bazar
