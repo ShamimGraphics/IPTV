@@ -11,10 +11,7 @@ https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQ1MGE0MzktZDI3Mi00ZDM3LThlNDItNjYyM2VkMWM2ODNmXkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_UY268_CR43,0,182,268_AL_.jpg",Biye.Com (2020)
 http://file.tajpata.com/downloads/Movies/Kolkata/2020/Biye.Com%20%282020%29/Biye.Com.%282020%29.1080p.Bengali.WEB-DL.AAC.ESub-DusIcTv.mkv?raw=1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg" group-title="Movie.",3 Idiots ᴴᴰ
-https://storage.sunplex.net/Movies/Hindi%20Movies/2009/3%20Idiots%20%282009%29/3.Idiots.2009.Hindi.1080p.BluRay.264.AAC.HDMA.VTL.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Ki_Kore_Toke_Bolbo_-_Movie_Poster.jpg" group-title="Movie.",Ki Kore Toke Bolbo
-https://storage.sunplex.net/Movies/Bangla%20Movies/Indian%20Bangla/2016/0/Ki%20Kore%20Toke%20Bolbo%20%282016%29.mp4?raw=1
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://s8.gifyu.com/images/Sony_Max_HD.md.png",SET MAX ᴴᴰ
 http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
 #EXTINF:-1 group-title="Movies",ZEE CINEMA
@@ -130,6 +127,12 @@ https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
 https://ccntv.anytv.live/zoom/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://s8.gifyu.com/images/S6d9cb2Sf950479fac32e2aa.png",Dhoom
 https://ccntv.anytv.live/dhoom/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg" group-title="Movie.",3 Idiots ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2009/3%20Idiots%20%282009%29/3.Idiots.2009.Hindi.1080p.BluRay.264.AAC.HDMA.VTL.mp4?raw=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Ki_Kore_Toke_Bolbo_-_Movie_Poster.jpg" group-title="Movie.",Ki Kore Toke Bolbo
+https://storage.sunplex.net/Movies/Bangla%20Movies/Indian%20Bangla/2016/0/Ki%20Kore%20Toke%20Bolbo%20%282016%29.mp4?raw=1
+
 #EXTINF:-1 group-title="Awards" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/12th_Mirchi_Music_Awards.jpeg",Mirchi Music Awards 2020
 http://file.tajpata.com/downloads/Awards%20Show/Mirchi%20Music%20Awards%202020%20Main%20Event%20720p.mp4?raw=1
 
