@@ -9,19 +9,19 @@ http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://s8.gifyu.com/images/1000px-Animal_Planet_logo_2018.svg.png",ANIMAL PLANET ᴴᴰ
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg",Songsad TV ᴴᴰ
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie." tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQ1MGE0MzktZDI3Mi00ZDM3LThlNDItNjYyM2VkMWM2ODNmXkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_UY268_CR43,0,182,268_AL_.jpg",Biye.Com (2020)
 http://file.tajpata.com/downloads/Movies/Kolkata/2020/Biye.Com%20%282020%29/Biye.Com.%282020%29.1080p.Bengali.WEB-DL.AAC.ESub-DusIcTv.mkv?raw=1
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://s8.gifyu.com/images/Sony_Max_HD.md.png",SET MAX ᴴᴰ
+#EXTINF:-1 group-title="Movie." tvg-logo="https://s8.gifyu.com/images/Sony_Max_HD.md.png",SET MAX ᴴᴰ
 http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
-#EXTINF:-1 group-title="Movies",ZEE CINEMA
+#EXTINF:-1 group-title="Movie.",ZEE CINEMA
 http://172.32.1.88:1935/tvprogram/ZEE-CINEMA/playlist.m3u8
 #EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://pbs.twimg.com/media/C8OLbvBV0AEQAPK.jpg",Jodi Bolo ᴴᴰ
 https://www.dropbox.com/s/wsebx021xj9ttb4/Jodi_Bolo_%28%E0%A6%AF%E0%A6%A6%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%8B%29__One_Movie_Song__Yash__Nusrat__Birsa_Dasgupta__Arijit_Singh__Arindom__SVF%281080p%29.mp4?raw=1
-#EXTINF:-1 group-title="Movies" tvg-logo="https://s8.gifyu.com/images/sjM1MbFR.png",Zee Cinema ᴴᴰ
+#EXTINF:-1 group-title="Movie." tvg-logo="https://s8.gifyu.com/images/sjM1MbFR.png",Zee Cinema ᴴᴰ
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg",Songsad TV ᴴᴰ
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_4/public/feature/images/somoy-tv-logo.jpg?itok=6Zm57T5Z" group-title="Bangladesh",Shomoy TV
 https://rhridoy136.shortcm.li/shomoytv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1174px-Independent_Television_Logo.svg.png" group-title="Bangladesh",Independent
@@ -34,7 +34,7 @@ https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
 https://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/2020%E2%80%9321_Bangabandhu_T20_Cup.png",Bangabandhu T20 Cup
 http://172.32.1.88:1935/tvprogram/Lifetime/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://banner2.cleanpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg",জলসা Movies HD
+#EXTINF:-1 group-title="Movie." tvg-logo="https://banner2.cleanpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg",জলসা Movies HD
 http://172.32.1.88:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_logo.png",বাংলাদেশ টেলিভিশন
 http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
@@ -657,7 +657,14 @@ http://peridot.streamguys.com:7150/Mirchi
 http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/pn9rydep7xzxfcg/101.6.jpg?raw=1" group-title="RADIO/FM LIVE",Colours FM (101.6)
 http://45.64.135.88:8000/stream1
-
+#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="INFOTAINMENT",80.Discovery Science English
+https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="INFOTAINMENT",74.Discovery Hindi
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="INFOTAINMENT",75.Discovery English
+https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="INFOTAINMENT",76.Discovery HD
+https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zc2qufsco7uxl51/logo.png?raw=1" group-title="Behind The Puppy",Behind The Puppy [1]
