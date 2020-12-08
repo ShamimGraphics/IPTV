@@ -3,13 +3,15 @@
 https://www.dropbox.com/s/djxln9f8yyce8h6/Muskurane_-_Arijit_Singh_I_Citylights_I_RajKummar_Rao%281080p%29.mp4?raw=1
 #EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://pbs.twimg.com/media/C8OLbvBV0AEQAPK.jpg",Jodi Bolo ᴴᴰ
 https://www.dropbox.com/s/wsebx021xj9ttb4/Jodi_Bolo_%28%E0%A6%AF%E0%A6%A6%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%8B%29__One_Movie_Song__Yash__Nusrat__Birsa_Dasgupta__Arijit_Singh__Arindom__SVF%281080p%29.mp4?raw=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Chhalaang_film_poster.jpg" group-title="Movie.",Chhalaang ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Chhalaang%20%282020%29/Chhalaang.2020.Hindi.720p.WEBRip.x264.AAC.VTL.mp4?raw=1
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://s8.gifyu.com/images/Discovery_HD_logo_2009.png",DISCOVERY ᴴᴰ
 http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://i.imgur.com/4Wfs9kj.png",Discovery Science ᴴᴰ
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://s8.gifyu.com/images/1000px-Animal_Planet_logo_2018.svg.png",ANIMAL PLANET ᴴᴰ
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQ1MGE0MzktZDI3Mi00ZDM3LThlNDItNjYyM2VkMWM2ODNmXkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_UY268_CR43,0,182,268_AL_.jpg",Biye.Com (2020)
+#EXTINF:-1 group-title="Movie." tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQ1MGE0MzktZDI3Mi00ZDM3LThlNDItNjYyM2VkMWM2ODNmXkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_UY268_CR43,0,182,268_AL_.jpg",Biye.Com (2020)
 http://file.tajpata.com/downloads/Movies/Kolkata/2020/Biye.Com%20%282020%29/Biye.Com.%282020%29.1080p.Bengali.WEB-DL.AAC.ESub-DusIcTv.mkv?raw=1
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://s8.gifyu.com/images/Sony_Max_HD.md.png",SET MAX ᴴᴰ
@@ -44,15 +46,15 @@ https://rhridoy136.shortcm.li/ntv.m3u8
 https://rhridoy136.shortcm.li/rtv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh",GTV ᴴᴰ
 https://rhridoy136.shortcm.li/gazitv.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangladesh",Maasranga Tv
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangladesh",Maasranga Tv ᴴᴰ
 https://rhridoy136.shortcm.li/maasrangatv.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/b2/d9/d1/b2d9d1a4dd594c8f0bedfaf9f6a95b2c.jpg" group-title="Bangladesh",Desh TV
 https://rhridoy136.shortcm.li/deshtv.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangladesh",Ekattor
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangladesh",71 Ekattor Tv ᴴᴰ
 https://rhridoy136.shortcm.li/ekattortv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Bangladesh",Ekushey TV
 https://rhridoy136.shortcm.li/ekusheytv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288" group-title="Bangladesh",MY TV
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288" group-title="Bangladesh",MY TV ᴴᴰ
 https://rhridoy136.shortcm.li/mytv.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="Bangladesh",Asian TV
 https://rhridoy136.shortcm.li/asiantv.m3u8
@@ -62,7 +64,7 @@ https://rhridoy136.shortcm.li/atnbangla.m3u8
 https://rhridoy136.shortcm.li/atnnews.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/banglatvhd-1.jpg?x91288" group-title="Bangladesh",Bangla TV
 https://rhridoy136.shortcm.li/banglatv.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x91288" group-title="Bangladesh",Banglavision
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x91288" group-title="Bangladesh",Banglavision ᴴᴰ
 https://rhridoy136.shortcm.li/banglavisiontv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="Bangladesh",Bijoy TV
 https://rhridoy136.shortcm.li/bijoytv.m3u8
@@ -73,17 +75,17 @@ https://rhridoy136.shortcm.li/btvworld.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BTV Chattogram" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x91288" group-title="Bangladesh",BTV Chattogram
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="Bangladesh",Channel 9
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="Bangladesh",Channel 9 ᴴᴰ
 https://rhridoy136.shortcm.li/channel9.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangladesh",CHANNEL 24
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangladesh",CHANNEL 24 ᴴᴰ
 https://rhridoy136.shortcm.li/channel24.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="Bangladesh",Channel I ᴴᴰ
 https://rhridoy136.shortcm.li/channeli.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="Bangladesh",DBC News ᴴᴰ
 https://rhridoy136.shortcm.li/dbcnews.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladesh",Deepto TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladesh",Deepto TV ᴴᴰ
 https://rhridoy136.shortcm.li/deeptotv.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="Bangladesh",Duronto TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="Bangladesh",Duronto TV ᴴᴰ
 https://rhridoy136.shortcm.li/durontotv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Gaan_Bangla_Official_Logo_.png" group-title="Bangladesh",Gaan Bangla
 https://rhridoy136.shortcm.li/gaanbangla.m3u8
@@ -127,6 +129,83 @@ https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
 https://ccntv.anytv.live/zoom/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://s8.gifyu.com/images/S6d9cb2Sf950479fac32e2aa.png",Dhoom
 https://ccntv.anytv.live/dhoom/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Street_Dancer_3D_poster.jpg/220px-Street_Dancer_3D_poster.jpg" group-title="Movie.",Street Dancer 3D ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Street%20Dancer%203D%20%282020%29/Street.Dancer.3D.2020.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Chhapaak_film_poster.jpg/220px-Chhapaak_film_poster.jpg" group-title="Movie.",Chhapaak ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2020/CHHAPAAK%20%282020%29/CHHAPAAK.2020.1080p.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Good_Newwz_film_poster.jpg/220px-Good_Newwz_film_poster.jpg" group-title="Movie.",Good Newwz ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2019/Good%20Newwz%20%282019%29/Good.Newwz.%282019%29.1080p.WEB-DL.AVC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Dabangg_3_poster.jpg/220px-Dabangg_3_poster.jpg" group-title="Movie.",Dabangg 3 ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2019/Dabangg%203%20%282019%29/Dabangg.3.%282020%29.1080p.WEB-DL.AVC.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Pati_Patni_Aur_Woh_poster.jpg/220px-Pati_Patni_Aur_Woh_poster.jpg" group-title="Movie.",Pati Patni Aur Woh ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2019/Pati%20Patni%20Aur%20Woh%20%282019%29/Pati%20Patni%20Aur%20Woh.2019.720p.WEB-DL.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Commando_3_official_poster.jpg/220px-Commando_3_official_poster.jpg" group-title="Movie.",Commando 3 ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2019/Commando%203%20%282019%29/Commando.3.2019.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Marjaavaan_poster.jpg/220px-Marjaavaan_poster.jpg" group-title="Movie.",Marjaavaan ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2019/Marjaavaan%20%282019%29/Marjaavaan.2019.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Housefull_Poster.jpg/220px-Housefull_Poster.jpg" group-title="Movie.",Housefull ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2010/Housefull%20%282010%29/Housefull.2010.720p.BluRay.AAC.x264-VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Housefull_2.jpg/220px-Housefull_2.jpg" group-title="Movie.",Housefull 2 ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2012/Housefull%202%20%282012%29/Housefull-2.2012..720p.BluRay.AAC.x264-VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Akshay_Kumar%27s_Housefull_3.jpg/220px-Akshay_Kumar%27s_Housefull_3.jpg" group-title="Movie.",Housefull 3 ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2016/Housefull%203%20%282016%29/Housefull.3.%282016%29.1080p.BluRay.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Housefull_4_poster.jpg/220px-Housefull_4_poster.jpg" group-title="Movie.",Housefull 4 ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2019/Housefull%204%20%282019%29/Housefull%204.2019.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/War_official_poster.jpg/220px-War_official_poster.jpg" group-title="Movie.",War ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2019/War%20%282019%29/War.2019.Hindi.1080P.Amzn.WEBRiP.10.bit.x264.DD.5.1ESUB.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Student_of_the_year_2_Poster.jpg/220px-Student_of_the_year_2_Poster.jpg" group-title="Movie.",Student of the Year 2 ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2019/Student%20of%20the%20year%202%20%282019%29/Student.of.the.Year.2.%282019%29.1080p.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Chhichhore_Poster.jpg/220px-Chhichhore_Poster.jpg" group-title="Movie.",Chhichhore ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2019/Chhichhore.%282019%29/Chhichhore.%282019%29.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Blank_film_poster.jpg/220px-Blank_film_poster.jpg" group-title="Movie.",Blank ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2019/Blank%20%282019%29/Blank.2019.Hindi.1080p.HD.AVC.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Junglee_film_poster.jpg" group-title="Movie.",Junglee ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2019/Junglee%20%282019%29/Junglee.2019.1080p.WEB-DL.Esub.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://cdn.bollywoodmdb.com/movies/largethumb/2013/total-dhamaal/poster.jpg" group-title="Movie.",Total Dhamaal ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2019/Total%20Dhamaal%20%282019%29/Total.Dhamaal.2019.1080p.WEB-DL.AVC.AAC.ESub.DDR.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/URI_-_New_poster.jpg/220px-URI_-_New_poster.jpg" group-title="Movie.",Uri: The Surgical Strike ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2019/Uri%20The%20Surgical%20Strike%20%282019%29/Uri.The.Surgical.Strike.2019.Hindi.1080p.HQ.x264.AAC.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Heropanti_Poster.jpg/220px-Heropanti_Poster.jpg" group-title="Movie.",Heropanti ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2014/Heropanti%20%282014%29/Heropanti%20%282014%29.1080p.WebHD.Esub.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Toilet_Ek_Prem_Katha.jpg/220px-Toilet_Ek_Prem_Katha.jpg" group-title="Movie.",Toilet – Ek Prem Katha ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2017/Toilet%20Ek%20Prem%20Katha%20%282017%29/Toilet%20Ek%20Prem%20Katha%20%282017%29.1080p.BluRay.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Mubarakan_Poster.jpg/220px-Mubarakan_Poster.jpg" group-title="Movie.",Mubarakan
+https://storage.sunplex.net/Movies/Hindi%20Movies/2017/Mubarakan%20%282017%29/Mubarakan%20%282017%29%201080p%20BluRay.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Munna_Michael_Poster.jpg/220px-Munna_Michael_Poster.jpg" group-title="Movie.",Munna Michael ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2017/Munna%20Michael%20%282017%29/Munna.Michael.2017.Hindi.720p.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/JaggaJasoosPoster.jpg/220px-JaggaJasoosPoster.jpg" group-title="Movie.",Jagga Jasoos ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2017/Jagga%20Jasoos%20%282017%29/Jagga.Jasoos.2017.1080p.BluRay.x264.AAC.VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Baaghi_Hindi_film_poster.jpg" group-title="Movie.",Baaghi ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2016/Baaghi%20%282016%29/Baaghi.2016.1080p.BRRip.x264.Hindi.AAC-VTL.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Baaghi_2_Official_Poster.jpg/220px-Baaghi_2_Official_Poster.jpg" group-title="Movie.",Baaghi 2 ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2018/Baaghi%202%20%282018%29/Baaghi%202%20Hindi%20720p%20HDrip.mp4?raw=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Baaghi_3_Film_Poster.jpg/220px-Baaghi_3_Film_Poster.jpg" group-title="Movie.",Baaghi 3 ᴴᴰ
+https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Baaghi%203%20%282020%29/Baaghi.3.2020.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg" group-title="Movie.",3 Idiots ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2009/3%20Idiots%20%282009%29/3.Idiots.2009.Hindi.1080p.BluRay.264.AAC.HDMA.VTL.mp4?raw=1
@@ -334,13 +413,12 @@ https://storage.sunplex.net/Movies/Foreign%20Movies/Russian%20Movies/2020/Invasi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/D2-poster-ver2.jpg" group-title="Movie.",Dhoom 2 ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2006/Dhoom%202%20%282006%29/Dhoom.2.2006.BluRay.1080p.H264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Chhalaang_film_poster.jpg" group-title="Movie",Chhalaang ᴴᴰ
-https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Chhalaang%20%282020%29/Chhalaang.2020.Hindi.720p.WEBRip.x264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Laxmii_poster.jpg" group-title="Movie",Laxmii ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Laxmii_poster.jpg" group-title="Movie.",Laxmii ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Laxmii%20%282020%29/Laxmii.2020.1080p.WEB-DL.x264.AAC.VTL.mp4?raw=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Padman_poster.jpg" group-title="Movie",Padman ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Padman_poster.jpg" group-title="Movie.",Padman ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2018/Pad%20Man%20%282018%29/Pad%20Man%202018%20Hindi%201080p%20WEB-DL%20x264%20AAC%20-%20Hon3yHD.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/DJ_film_poster.jpg" group-title="Allu Arjun",Duvvada Jagannadham ᴴᴰ
