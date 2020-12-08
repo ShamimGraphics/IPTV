@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://a10.gaanacdn.com/images/albums/97/302297/crop_480x480_302297.jpg",Muskurane ᴴᴰ
 https://www.dropbox.com/s/djxln9f8yyce8h6/Muskurane_-_Arijit_Singh_I_Citylights_I_RajKummar_Rao%281080p%29.mp4?raw=1
-#EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://pbs.twimg.com/media/C8OLbvBV0AEQAPK.jpg",Jodi Bolo ᴴᴰ
-https://www.dropbox.com/s/wsebx021xj9ttb4/Jodi_Bolo_%28%E0%A6%AF%E0%A6%A6%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%8B%29__One_Movie_Song__Yash__Nusrat__Birsa_Dasgupta__Arijit_Singh__Arindom__SVF%281080p%29.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Chhalaang_film_poster.jpg" group-title="Movie.",Chhalaang ᴴᴰ
 https://storage.sunplex.net/Movies/Hindi%20Movies/2020/Chhalaang%20%282020%29/Chhalaang.2020.Hindi.720p.WEBRip.x264.AAC.VTL.mp4?raw=1
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://s8.gifyu.com/images/Discovery_HD_logo_2009.png",DISCOVERY ᴴᴰ
@@ -18,6 +16,8 @@ http://file.tajpata.com/downloads/Movies/Kolkata/2020/Biye.Com%20%282020%29/Biye
 http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
 #EXTINF:-1 group-title="Movies",ZEE CINEMA
 http://172.32.1.88:1935/tvprogram/ZEE-CINEMA/playlist.m3u8
+#EXTINF:-1 group-title="Arijit Singh" tvg-logo="https://pbs.twimg.com/media/C8OLbvBV0AEQAPK.jpg",Jodi Bolo ᴴᴰ
+https://www.dropbox.com/s/wsebx021xj9ttb4/Jodi_Bolo_%28%E0%A6%AF%E0%A6%A6%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%8B%29__One_Movie_Song__Yash__Nusrat__Birsa_Dasgupta__Arijit_Singh__Arindom__SVF%281080p%29.mp4?raw=1
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://s8.gifyu.com/images/sjM1MbFR.png",Zee Cinema ᴴᴰ
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg",Songsad TV ᴴᴰ
