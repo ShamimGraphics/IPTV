@@ -1,4 +1,3 @@
-# HD IPTV 2020
 IPTV playlist For Bangladeshi and indian channels.
 
 You can find 500+ channels in this IPTV playlist
